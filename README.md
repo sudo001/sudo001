@@ -28,8 +28,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/sudo001/itoox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo001&repo=itoox&theme=dark&show_owner=sudo001" />
+    <a href="https://github.com/sudo001/Elixir-RPC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo001&repo=Elixir-RPC&theme=dark&show_owner=sudo001" />
     </a>
 </p>
 
