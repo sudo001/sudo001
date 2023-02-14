@@ -28,8 +28,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/sudo001/Elixir-RPC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo001&repo=Elixir-RPC&theme=dark&show_owner=sudo001" />
+    <a href="https://github.com/sudo001/blueshare-linux">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudo001&repo=blueshare-linux&theme=dark&show_owner=sudo001" />
     </a>
 </p>
 
@@ -38,7 +38,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/sudo001/itoox">
+    <a href="https://github.com/sudo001/">
         <img src="https://github-readme-stats.vercel.app/api?username=sudo001&show_icons=true&theme=dark" />
     </a>
 </p>
