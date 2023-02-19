@@ -48,3 +48,11 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo001&layout=compact&hide_progress=False&theme=dark">
     </a>
 </p>
+
+<h1 align="center">
+    📞 Get in touch with me:
+</h1>
+
+<p align="center">
+    <h3 align="center"><samp> Discord: $udo#0386 </samp></h3>
+</p>
