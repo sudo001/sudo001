@@ -39,6 +39,12 @@
 
 <p align="center">
     <a href="https://github.com/sudo001/">
-        <img src="https://github-readme-stats.vercel.app/api?username=sudo001&show_icons=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sudo001&show_icons=true&theme=dark"/>
+    </a>
+</p>
+
+<p align="center">
+        <a href="https://github.com/sudo001/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo001&layout=compact&hide_progress=False&theme=dark">
     </a>
 </p>
